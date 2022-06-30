@@ -1,0 +1,9 @@
+Steps:-
+1. Open the Tokn Music Folder
+2. Navitage to the following path("Tokn_Music_May\tokn")
+3. Run/open terminal
+4. Run the following commands:-
+5. command-1 :- npm install
+6. command2-2 :- npm start
+7. open the following inthe URL bar( http://localhost:3000/home)
+
